@@ -1,3 +1,6 @@
 
 
 30/09/2026  -- Starting web devlopment with basics html level 1
+01/10/2026  -- Inline - block elemt and semantic tag html level 2
+02/10/2026  --
+03/10/2026  --
